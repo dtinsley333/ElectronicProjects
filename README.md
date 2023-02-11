@@ -1,6 +1,18 @@
 # ElectronicProjects-Electronics Project Using Filament LEDs
 
-## Product info-https://youtu.be/FzVV738YoCw
+## Supply List
+* Hot glue gun
+* Acrylic paint, can use latex house paint as well
+* Shrink wrap-clear would be better but black will work
+* Wire-something fairly flexible, in the project I used recycled CAT 5 wire
+* Decorative wording, in this case the wording was made of cardboard purchased at Hobby Lobby. 
+* Led Filaments-In the project the filament LEDs were purchased from Adafruit (11.7 inches in length) Number depends on the project
+* Soldering Iron-If you don't have experience soldering I would suggest a watching videos, here one I like but there are many others available on youtube:
+ https://www.youtube.com/watch?v=QKbJxytERvg
+
+
+
+## Product info-LED filament: ooohttps://youtu.be/FzVV738YoCw
 
 
 
@@ -8,10 +20,12 @@
 " target="_blank"><img src="IMG_2562.JPEG" 
 alt="Adafruit Filament Product info" width="240" height="180" border="10" /></a>
 
-## Creating a back drop for the filament lighting
-Inline-style: 
-![alt text](IMG_2562.JPEG "Logo Title Text 1")
+## STEP 1: Creating a back drop for the filament lighting
+<img src="https://github.com/dtinsley333/ElectronicProjects/blob/main/IMG_2552.JPEG" width=50% height=15%>
 
+## STEP 2: Paint the decorative words(sign) that will be backlit
+<img src="https://github.com/dtinsley333/ElectronicProjects/blob/main/IMG_2552.JPEG" width=50% height=15%>
 
-<img src="https://user-images.githubusercontent.com/41547742/195372022-4e48d086-7af3-4f5a-a871-72522f3bde9b.jpg" width=20% height=20%>
+## STEP 3: Wire the LEDS to the back of the sign
+<img src="https://github.com/dtinsley333/ElectronicProjects/blob/main/IMG_2552.JPEG" width=50% height=15%>
 
