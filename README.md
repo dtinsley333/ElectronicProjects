@@ -21,7 +21,7 @@
 alt="Adafruit Filament Product info" width="240" height="180" border="10" /></a>
 
 ## STEP 1: Creating a back drop for the filament lighting
-<img src="https://github.com/dtinsley333/ElectronicProjects/blob/main/IMG_2552.JPEG" width=50% height=15%>
+<img src="https://github.com/dtinsley333/ElectronicProjects/blob/main/IMG_2550.JPEG" width=50% height=15%>
 
 ## STEP 2: Paint the decorative words(sign) that will be backlit
 <img src="https://github.com/dtinsley333/ElectronicProjects/blob/main/IMG_2552.JPEG" width=50% height=15%>
