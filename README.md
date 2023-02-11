@@ -2,6 +2,7 @@
 
 ## Supply List
 * Hot glue gun
+* Wood Dowl rod to elevate the sign over the rose covered backdrop
 * Acrylic paint, can use latex house paint as well
 * Shrink wrap-clear would be better but black will work
 * Wire-something fairly flexible, in the project I used recycled CAT 5 wire
