@@ -1,8 +1,10 @@
-# ElectronicProjects-Electronics Project Using Filament LEDs
+#Project Using Filament LEDs
+
+I had seen a few tutorials regardkng filament LEDS. Filament LEDs are a series of small leds enclosed in a tube. The longest lenght of filament available at this time is 11.8 inches. The filaments are bendable so they are great for backlighting. They are very low voltage 3v, so they can be powered easily by traditional batteries, lipo batteries or USB power. 
 
 ## Supply List
 * Hot glue gun
-* Wood Dowl rod to elevate the sign over the rose covered backdrop
+* Wood Dowel rod to elevate the sign over the rose covered backdrop
 * Acrylic paint, can use latex house paint as well
 * Shrink wrap-clear would be better but black will work
 * Wire-something fairly flexible, in the project I used recycled CAT 5 wire
