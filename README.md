@@ -1,4 +1,4 @@
-#Project Using Filament LEDs
+# Project Using Filament LEDs
 
 I had seen a few tutorials regardkng filament LEDS. Filament LEDs are a series of small leds enclosed in a tube. The longest lenght of filament available at this time is 11.8 inches. The filaments are bendable so they are great for backlighting. They are very low voltage 3v, so they can be powered easily by traditional batteries, lipo batteries or USB power. 
 
